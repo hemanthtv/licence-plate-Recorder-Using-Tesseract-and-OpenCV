@@ -1,0 +1,1 @@
+# licence-plate-Recorder-Using-Tesseract-and-OpenCV
