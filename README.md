@@ -1,6 +1,4 @@
 # licence-plate-Recorder-Using-Tesseract-and-OpenCV
-
-# License-Plate-Reading-OCR
 I attempt to create a model that is able to 'look' at picture of cars and return the text version of their number plate number. 
 
 ## Objective:
